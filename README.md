@@ -61,13 +61,13 @@ documents/
 │   ├── cbuae
 │   │   └── Central Bank Provisions
 │   │       ├── Circular No. 1:2023 on the Regulation of the Licensing of Payment Service Providers.pdf
-│	│	    └── etc ...
+│   │	    └── etc ...
 │   └── moec
 │       ├── Anti-Money Laundering Crimes Legislations
 │       │   ├── Cabinet Decision No (109) of 2023 on regulating the procedures of the beneficial owner prodcedures.pdf
 │       │   ├── Cabinet Decision No (10) of 2019 concerning the Executive Regulations of Federal Decree Law No (20) of
 │       │   │── Federal Law No (2) of 2014 on Small and Medium Projects and Enterprises.pdf
-│		│	└── etc ...
+│	│   └── etc ...
 │       └── Trading by Modern Technological Means
 │           └── Federal Decree-Law No. 14:2023 on Trading by Modern Technological Means.pdf
 └── prev
