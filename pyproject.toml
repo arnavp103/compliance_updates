@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "compliance-updates"
+version = "0.1.0"
+description = "A regulations updater for financial entities in the UAE"
+authors = ["Arnav Priyadarshi <arnavp103@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.32.3"
+python-dotenv = "^1.0.1"
+postmarker = "^1.0"
+beautifulsoup4 = "^4.12.3"
+
+
+[tool.poetry.group.developer.dependencies]
+types-requests = "^2.32.0.20240712"
+types-beautifulsoup4 = "^4.12.0.20240511"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
